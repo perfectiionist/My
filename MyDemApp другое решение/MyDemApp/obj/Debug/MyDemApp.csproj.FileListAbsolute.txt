@@ -1,0 +1,36 @@
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\bin\Debug\MyDemApp.exe.config
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\bin\Debug\MyDemApp.exe
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\bin\Debug\MyDemApp.pdb
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MyDemApp.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\Pages\PageView.g.cs
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\App.g.cs
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MyDemApp_MarkupCompile.cache
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MyDemApp_MarkupCompile.lref
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MainWindow.baml
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\Pages\PageView.baml
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MyDemApp.g.resources
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MyDemApp.Properties.Resources.resources
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MyDemApp.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MyDemApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MyDemApp.exe
+C:\Users\Алексей\source\repos\MyDemApp\MyDemApp\obj\Debug\MyDemApp.pdb
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MyDemApp.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\Pages\PageView.g.cs
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\App.g.cs
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MyDemApp_MarkupCompile.cache
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MyDemApp_MarkupCompile.lref
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MyDemApp.exe
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MyDemApp.pdb
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\bin\Debug\MyDemApp.exe.config
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\bin\Debug\MyDemApp.exe
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\bin\Debug\MyDemApp.pdb
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\Pages\PageView.baml
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MyDemApp.g.resources
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MyDemApp.Properties.Resources.resources
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MyDemApp.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\MyDemApp.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\Pages\PageAdd.g.cs
+C:\Users\Алексей\Desktop\MyDemApp другое решение\MyDemApp\obj\Debug\Pages\PageAdd.baml
